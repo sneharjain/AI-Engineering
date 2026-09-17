@@ -4,6 +4,8 @@ A complete **Extract → Transform → Load (ETL)** pipeline built as part of th
 
 This project demonstrates how raw, messy datasets are cleaned, transformed, enriched, and loaded into **MySQL** using Python.
 
+Note: This project is my implementation based on concepts learned during the IIT Kharagpur Generative AI & Agentic AI Bootcamp. It is intended for learning and practice purposes and is not an official course repository or course material.
+
 ---
 
 ## Project Overview
