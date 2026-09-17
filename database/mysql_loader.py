@@ -8,7 +8,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 engine = create_engine(
-    "mysql+pymysql://root:AiBootcamp%402026@localhost:3307/ai_engineering_db"
+    "mysql+pymysql://<USERNAME>:<PASSWORD>@localhost:3307/<DATABASE_NAME>"
 )
 
 def load_to_mysql(df, table_name):
