@@ -1,4 +1,4 @@
-# AI Data Engineering ETL Pipeline (IIT Kharagpur Bootcamp)
+# AI Data Engineering ETL Pipeline
 
 A complete **Extract → Transform → Load (ETL)** pipeline built as part of the **IIT Kharagpur Generative AI & Agentic AI Bootcamp**.
 
