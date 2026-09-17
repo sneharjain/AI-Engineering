@@ -1,0 +1,6 @@
+customer,transaction_category,category_encoded,city_Bangalore,city_Delhi,city_Mumbai
+Sneha,High Value,0,1,0,0
+Rahul,Low Value,1,0,1,0
+Priya,Medium Value,2,0,0,1
+Amit,Low Value,1,0,1,0
+Sneha,High Value,0,1,0,0

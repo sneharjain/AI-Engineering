@@ -1,0 +1,3 @@
+CREATE DATABASE AI_Engineering_DB;
+USE AI_Engineering_DB;
+SHOW DATABASES;
